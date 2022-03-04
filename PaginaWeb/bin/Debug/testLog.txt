@@ -1,0 +1,4 @@
+Verify completed in 13.9664 milliseconds, total of 1 times in 13.9664 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\doboc\source\repos\PaginaWeb\PaginaWeb\bin\Debug\x86\SQLite.Interop.dll"...
+facebook.com
+wikipedia.com
